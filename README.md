@@ -1,4 +1,4 @@
-# Person-ReIdentification
+# Metric Learning for Person Re-Identification
 
 Code Repository for EE4-68 Pattern Recognition (2018-2019) Coursework 2 : Person Re-Identification
 
