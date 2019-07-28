@@ -1,0 +1,5 @@
+/PR_data/*
+/Generated Data/*
+*.pyc
+*.pkl
+*.json
